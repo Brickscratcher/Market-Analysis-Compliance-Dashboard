@@ -1,0 +1,12 @@
+dependencies:
+    beautifulsoup v 4.14.2
+    numpy v 2.3.4
+    openai v 2.7.1
+    pandas v 2.3.3
+    plotly v 6.4.0
+    pycoingecko v 3.2.0
+    requests v 2.32.5
+    streamlit v 1.51.0
+    ta v 0.11.0
+    trafilatura v 2.0.0
+    yfinance v 0.2.6
